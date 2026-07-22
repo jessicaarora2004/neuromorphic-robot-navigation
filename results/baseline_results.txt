@@ -1,0 +1,22 @@
+Task: Vision-based robot navigation
+
+Dataset:
+- Classes: forward, left, right, stop
+- Images: 13536
+- Resolution: 64x64
+
+CNN:
+- Accuracy: 100%
+
+SNN:
+- Accuracy: 100%
+- Timesteps: 20
+
+Spike sparsity:
+Input: 52.47%
+
+Layer-wise:
+LIF1: 91.11%
+LIF2: 91.60%
+LIF3: 93.13%
+LIF4: 93.70%
