@@ -1,19 +1,16 @@
-# Python
-__pycache__/
-*.pyc
-
-# Jupyter
-.ipynb_checkpoints/
-
-# VS Code
-.vscode/
-
-# Dataset
+# Datasets
 data/
+notebooks/datasets/
 
 # Model checkpoints
 *.pth
 
-# OS files
-.DS_Store
-Thumbs.db
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
