@@ -193,11 +193,7 @@ Project_neuromorphic
 
 ##  Installation
 
-Clone the repository
 
-```bash
-git clone https://github.com/YOUR_USERNAME/event-driven-robot-navigation-snn.git
-```
 
 Install dependencies
 
